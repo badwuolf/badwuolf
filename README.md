@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @badwuolf    I am an accountant with passion for working with data. 
 - 👀 I’m interested in ...  data stuff 
-- 🌱 I’m currently learning ... SQL,m PowerBI and like
+- 🌱 I’m currently learning ... SQL, PowerBI and like
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
