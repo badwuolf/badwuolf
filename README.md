@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @badwuolf    I am an accountant by day and wannabe data analyst at night :-P 
-- 👀 I’m interested in ...  combining the two somehow 
+- 👋 Hi, I’m @badwuolf    
+- 👀 I’m interested in ...  
 - 🌱 I’m currently learning ... SQL, Power BI , Python 
 - 💞️ I’m looking to collaborate on ...   
 - 📫 How to reach me ...  johndoecz@gmail.com
